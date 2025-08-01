@@ -26,7 +26,7 @@ Open the game using a mod loader like **Fabric**. Then load into any world or se
 - Move the **Ralsei** folder into the opened `avatars` folder.
 
 ## 6. Select Your Avatar
-Return to Minecraft, and select “Ralsei Deltarune” from the left panel in the Figura menu.
+Return to Minecraft, and select **"Ralsei Deltarune"** from the left panel in the Figura menu.
 
 ## 7. You're All Set!
 Your custom Ralsei avatar should now appear in-game. Enjoy!
